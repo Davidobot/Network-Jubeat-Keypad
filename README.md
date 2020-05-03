@@ -1,6 +1,8 @@
 # Network-Jubeat-Keypad
 A small C# program to parse UDP packets from a LÖVE iOS program to use with Jubeat Analyser
 
+Explanation blog post [here](https://davidobot.net/2020/05/03/jubeat-pc).
+
 ## Quickstart
 1. Sideload LÖVE onto your iPad. I use [this build](https://love2d.org/forums/viewtopic.php?t=85139). (yes, I commented on that thread a *long* time ago)
 2. Open up `client.love` as a zip file and edit the IP address to point to your PC's
